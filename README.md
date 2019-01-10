@@ -1,3 +1,2 @@
 # Robodoc
-Operating System: Android
-Database: SQLite
+Operating System: Android, Database: SQLite
